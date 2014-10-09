@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.rgonzalez.Objetos1;
+package edu.upc.eetac.dsa.ivangonzalez7.Objetos1;
 
 public class Arbol {
 

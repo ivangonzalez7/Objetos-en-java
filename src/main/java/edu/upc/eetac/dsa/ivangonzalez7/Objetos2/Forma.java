@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.rgonzalez.Objetos2;
+package edu.upc.eetac.dsa.ivangonzalez7.Objetos2;
 
 public class Forma {
 

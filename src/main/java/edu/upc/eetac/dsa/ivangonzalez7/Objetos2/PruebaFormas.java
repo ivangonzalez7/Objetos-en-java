@@ -1,8 +1,8 @@
-package edu.upc.eetac.dsa.rgonzalez.Objetos2;
+package edu.upc.eetac.dsa.ivangonzalez7.Objetos2;
 
-import edu.upc.eetac.dsa.rgonzalez.Objetos2.Circulo;
-import edu.upc.eetac.dsa.rgonzalez.Objetos2.Cuadrado;
-import edu.upc.eetac.dsa.rgonzalez.Objetos2.Forma;
+import edu.upc.eetac.dsa.ivangonzalez7.Objetos2.Circulo;
+import edu.upc.eetac.dsa.ivangonzalez7.Objetos2.Cuadrado;
+import edu.upc.eetac.dsa.ivangonzalez7.Objetos2.Forma;
 
 public class PruebaFormas {
 	public static void main(String[] args) {

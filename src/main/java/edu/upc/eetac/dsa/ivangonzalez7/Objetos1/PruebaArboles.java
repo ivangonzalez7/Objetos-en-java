@@ -1,6 +1,6 @@
-package edu.upc.eetac.dsa.rgonzalez.Objetos1;
+package edu.upc.eetac.dsa.ivangonzalez7.Objetos1;
 
-import edu.upc.eetac.dsa.emeyerson.Ejercicio1Arboles.Arbol;
+import edu.upc.eetac.dsa.ivangonzalez7.Objetos1.Arbol;
 
 public class PruebaArboles {
 
